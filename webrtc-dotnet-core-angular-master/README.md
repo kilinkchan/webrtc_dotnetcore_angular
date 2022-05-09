@@ -1,0 +1,1 @@
+This is using dotnet core 2.2 to porting websocket and webrtc project that use the angular.
